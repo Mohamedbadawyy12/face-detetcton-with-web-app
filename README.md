@@ -9,10 +9,7 @@ This project is a simple yet powerful web application for real-time detection of
 - [About The Project](#-about-the-project)
 - [Key Features](#-key-features)
 - [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
-- [How To Use](#-how-to-use)
-- [Project Structure](#-project-structure)
-- [Contact](#-contact)
+
 
 ---
 
@@ -42,6 +39,4 @@ The user can upload an image through a simple web interface and select which fea
 * **Models:** Pre-trained Haar Cascade Classifiers (`haarcascade_frontalface_default.xml`, `haarcascade_eye.xml`, `haarcascade_smile.xml`)
 
 
----
 
-## 📁 Project Structure
